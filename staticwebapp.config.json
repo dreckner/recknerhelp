@@ -1,6 +1,6 @@
 {
   "globalHeaders": {
-    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'sha256-FD9C06D39B92464F5EAB7E12030C9E6099FA685E4402ABC54E9D3A76A9A5FFF2'; frame-src 'none'; object-src 'none'; require-trusted-types-for 'script';",
+    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'nonce-g^9fn$Tw%P&2!G'; frame-src 'none'; object-src 'none'; require-trusted-types-for 'script';",
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "SAMEORIGIN"
   }
