@@ -1,6 +1,6 @@
 {
   "globalHeaders": {
-    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'sha256-5B41F441422686D06F2DCF0086CC2F97E865B8097DF782C88DD39FDD97FFA81A'; style-src 'self' https://*.reckner.com; frame-src 'none'; object-src 'none'; require-trusted-types-for 'script';",
+    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'sha256-22978638D7EC98B09CF96ACF3B5B37EE8207F7621ED2749B3BC3F7429FA1A4F1'; style-src 'self' https://*.reckner.com; frame-src 'none'; object-src 'none'; require-trusted-types-for 'script';",
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "SAMEORIGIN"
   }
