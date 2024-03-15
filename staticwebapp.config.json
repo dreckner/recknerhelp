@@ -1,6 +1,6 @@
 {
   "globalHeaders": {
-    "Content-Security-Policy": "default-src 'self'; script-src 'none'; frame-src 'none'; object-src 'none'; require-trusted-types-for 'script';",
+    "Content-Security-Policy": "default-src 'self'; script-src 'unsafe-inline'; frame-src 'none'; object-src 'none'; require-trusted-types-for 'script';",
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "SAMEORIGIN"
   }
